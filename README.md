@@ -20,15 +20,6 @@ https://github.com/Waho-Joe/SIT708_10.1D_Application
 - Public profile sharing API
 - Account upgrade API
 
-## Technologies Used
-
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
-- dotenv
-- CORS
-
 ## Project Structure
 
 ```text
