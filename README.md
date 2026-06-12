@@ -1,4 +1,4 @@
-# SIT708 10.1D Backend API
+# SIT708_10.1D_Backend
 
 This repository contains the backend API for the LLM-Enhanced Learning Assistant App.
 
